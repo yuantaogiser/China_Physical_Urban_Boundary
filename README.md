@@ -14,3 +14,6 @@ Detail:
 
 ## **How about the accuracy?**
 ![image](https://github.com/yuantaogiser/China_Physical_Urban_Boundary/blob/main/Comparison.png)
+
+## _CONTACT_
+_If you have any questions, doubts, or demands, please email me (yuantaogiser@gmail.com). If our work can help you, please cite it._
