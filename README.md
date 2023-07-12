@@ -7,7 +7,7 @@ Detail:
   "CPUB", "GUB", and "STEP1" include four numbers (1,2,3,4), meaning the confusion matrix. 
   (1: TP; 2: FN; 3: FP; 4:TN)
 
-### Tao Y., Liu W., Chen J., et al. A Self-Supervised Learning Approach for Extracting China Physical Urban Boundaries Based on Multi-Source Data. _Remote Sensing_. 2023; 15(12):3189. https://doi.org/10.3390/rs15123189
+### _Tao Y., Liu W., Chen J., et al. (2023) A Self-Supervised Learning Approach for Extracting China Physical Urban Boundaries Based on Multi-Source Data. Remote Sensing. 15(12):3189._ https://doi.org/10.3390/rs15123189
 
 ## **How to produce the urban boundary?**
 ![image](https://github.com/yuantaogiser/China_Physical_Urban_Boundary/blob/main/Flowchart.png)
