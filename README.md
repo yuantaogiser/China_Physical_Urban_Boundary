@@ -11,6 +11,6 @@ Detail:
 
 ### How to produce the urban boundary?
 ![image](https://github.com/yuantaogiser/China_Physical_Urban_Boundary/blob/main/Flowchart.png)
-\n
+
 ### How about the accuracy?
 ![image](https://github.com/yuantaogiser/China_Physical_Urban_Boundary/blob/main/Comparison.png)
