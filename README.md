@@ -9,5 +9,8 @@ Detail:
 
 ### Tao Y, Liu W, Chen J, Gao J, Li R, Ren J, Zhu X. A Self-Supervised Learning Approach for Extracting China Physical Urban Boundaries Based on Multi-Source Data. Remote Sensing. 2023; 15(12):3189. https://doi.org/10.3390/rs15123189
 
-
+### How to produce the urban boundary?
 ![image](https://github.com/yuantaogiser/China_Physical_Urban_Boundary/blob/main/Flowchart.png)
+\n
+### How about the accuracy?
+![image](https://github.com/yuantaogiser/China_Physical_Urban_Boundary/blob/main/Comparison.png)
