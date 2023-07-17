@@ -1,6 +1,7 @@
 # China_Physical_Urban_Boundary
 
 **Details for accuracy assessment: **
+
   The FID in the shapefile includes "layer", "CPUB", "GUB", and "STEP1".
 
   "layer" means the label of these points (0: Non-urban; 1: Urban).
