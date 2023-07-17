@@ -16,4 +16,4 @@ Detail:
 ![image](https://github.com/yuantaogiser/China_Physical_Urban_Boundary/blob/main/Comparison.png)
 
 ## _CONTACT_
-_If you have any questions, doubts, or demands, please email me (yuantaogiser@gmail.com). The code is coming soon._
+_If you have any questions, doubts, or demands, please email me (yuantaogiser@gmail.com)._
